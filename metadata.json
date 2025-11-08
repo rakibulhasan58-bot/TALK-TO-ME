@@ -1,0 +1,7 @@
+{
+  "name": "Talk To Me",
+  "description": "A chat application that simulates conversations using the Gemini API, designed with a familiar and intuitive interface similar to popular messaging apps.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
